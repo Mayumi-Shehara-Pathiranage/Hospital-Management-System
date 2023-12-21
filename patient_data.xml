@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientData>
+    <Patient>
+        <PatientID>1001</PatientID>
+        <Initials>M. S.</Initials>
+        <Surname>Silva</Surname>
+        <Address>123 Kotte Road, Colombo</Address>
+        <BloodType>A+</BloodType>
+        <ContactNO>077-1111111</ContactNO>
+        <Age>35</Age>
+    </Patient>
+    <Patient>
+        <PatientID>1002</PatientID>
+        <Initials>K. D.</Initials>
+        <Surname>Fernando</Surname>
+        <Address>456 Dehiwala Road, Colombo</Address>
+        <BloodType>B-</BloodType>
+        <ContactNO>077-2222222</ContactNO>
+        <Age>42</Age>
+    </Patient>
+    <Patient>
+        <PatientID>1011</PatientID>
+        <Initials>A. P.</Initials>
+        <Surname>Peris</Surname>
+        <Address>780 Gampaha  ARDP Road, Gampaha</Address>
+        <BloodType>B-</BloodType>
+        <ContactNO>077-1234567</ContactNO>
+        <Age>29</Age>
+    </Patient>
+    <Patient>
+        <PatientID>1012</PatientID>
+        <Initials>K. A.</Initials>
+        <Surname>Fernandp</Surname>
+        <Address>52367 Nugegoda AWR Road, Nugegoda</Address>
+        <BloodType>A+</BloodType>
+        <ContactNO>077-2345444</ContactNO>
+        <Age>40</Age>
+    </Patient>
+    <Patient>
+        <PatientID>1013</PatientID>
+        <Initials>M. R.</Initials>
+        <Surname>Silva</Surname>
+        <Address>123 Colombo XYZ Street, Colombo</Address>
+        <BloodType>O-</BloodType>
+        <ContactNO>077-5556789</ContactNO>
+        <Age>35</Age>
+    </Patient>
+    <Patient>
+        <PatientID>1014</PatientID>
+        <Initials>S. N.</Initials>
+        <Surname>Kumar</Surname>
+        <Address>456 Kandy ABC Road, Kandy</Address>
+        <BloodType>AB+</BloodType>
+        <ContactNO>077-7890123</ContactNO>
+        <Age>22</Age>
+    </Patient>
+</PatientData>

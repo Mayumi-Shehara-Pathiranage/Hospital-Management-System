@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaffData>
+    <StaffMember>
+        <Emp_No>206</Emp_No>
+        <Name>Malshani Jayawardena</Name>
+        <Address>10A Galle A5 Road, Colombo</Address>
+        <Contact_No>011-0987654</Contact_No>
+        <Gender>F</Gender>
+    </StaffMember>
+    <StaffMember>
+        <Emp_No>207</Emp_No>
+        <Name> Chanuka Ratnayake</Name>
+        <Address>4B6 Hatton BD Road, Kandy</Address>
+        <Contact_No>011-2936789</Contact_No>
+        <Gender>M</Gender>
+    </StaffMember>
+    <StaffMember>
+        <Emp_No>208</Emp_No>
+        <Name> Warana Perera</Name>
+        <Address>09H DC Road, Negombo</Address>
+        <Contact_No>034-2929292</Contact_No>
+        <Gender>M</Gender>
+    </StaffMember>
+    <StaffMember>
+        <Emp_No>209</Emp_No>
+        <Name> Yasara Fernando</Name>
+        <Address>787A Havelock AD Road, Colombo</Address>
+        <Contact_No>011-3333337</Contact_No>
+        <Gender>F</Gender>
+    </StaffMember>
+</StaffData>
